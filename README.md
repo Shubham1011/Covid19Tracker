@@ -1,6 +1,6 @@
 # Covid 19 tracker 
 
-Foobar is a Python library for dealing with word pluralization.
+A simple covid 19 tracker providing the lastest updates throughout India
 
 ## Installation
 ```bash
